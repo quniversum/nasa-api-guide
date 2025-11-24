@@ -63,9 +63,9 @@ Click **Send**. You should receive a `200 OK` status and a JSON object like this
 
 ## The Result
 
-Here is the high-resolution image derived from the `hdurl` field in our JSON response:
+Here is the high-resolution image derived from the `hdurl` field in our JSON response: <br>
 
-![The Observable Universe](https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg)
+![The Observable Universe](https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg) <br>
 
 ## Bonus: Time Travel with Parameters
 
@@ -86,5 +86,5 @@ As mentioned in Step 3, adding the date key allows us to fetch historical data. 
   "title": "The Millennium that Defines Universe"
 }
 ```
-
+<br>
 ![Flammarion Engraving - The Millennium Image](https://apod.nasa.gov/apod/image/0001/flammarion_halfcolor.gif)
